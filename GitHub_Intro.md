@@ -36,7 +36,7 @@
 [your computer] ~%cd [your/path]
 ```
 
-```
+```bash
 git clone https://github.com/your-username/your-repository.git
 ```
 
@@ -82,7 +82,7 @@ git clone https://github.com/your-username/your-repository.git
     1. In your repository directory, create a new file called `update.sh`.
         
     2. Inside `update.sh`, add the following commands:
-	```
+	```bash
         git add .
         git commit -m "Automated commit" 
         git push
