@@ -105,3 +105,29 @@ Every time you revise your files locally in **VSCode** and run `./update.sh`, yo
 By following these tips, you will maintain a smoother workflow and ensure compatibility across different systems.
 
 
+## 🔧 Most Useful Mac Shortcuts (for Coding)
+
+### 💻 Editor (VS Code / general)
+
+| Shortcut                      | Action                         |
+|------------------------------|--------------------------------|
+| `Cmd + /`                    | Toggle comment line            |
+| `Cmd + D`                    | Select next matching word      |
+| `Option + ↑ / ↓`             | Move current line up/down      |
+| `Option + Shift + ↑ / ↓`     | Copy current line up/down      |
+| `Cmd + Z`                    | Undo                           |
+| `Cmd + Shift + Z`            | Redo                           |
+
+### 🖥 Terminal
+
+| Shortcut     | Action                           |
+|--------------|----------------------------------|
+| `↑`          | Use previous command             |
+| `↓`          | Use next command                 |
+| `Ctrl + C`   | Cancel current command           |
+| `Ctrl + L`   | Clear screen (like `clear`)      |
+| `Ctrl + R`   | Search command history           |
+
+
+
+
